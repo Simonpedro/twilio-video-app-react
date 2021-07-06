@@ -9,6 +9,7 @@ import { useParams } from 'react-router-dom';
 import { useAppState } from '../../state';
 import useVideoContext from '../../hooks/useVideoContext/useVideoContext';
 
+// @ts-ignore
 delete window.location;
 // @ts-ignore
 window.location = {
