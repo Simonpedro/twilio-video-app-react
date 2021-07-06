@@ -1,4 +1,3 @@
-import React from 'react';
 import RoomNameScreen from './RoomNameScreen';
 import { shallow } from 'enzyme';
 import { TextField } from '@material-ui/core';
